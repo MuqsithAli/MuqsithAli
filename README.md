@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuqsithAli
 - 👀 I’m interested in anything tech that will engross me.
-- 🌱 I’m currently learning Advanced Data Structures.
+- 🌱 I’m currently learning Advanced Computer Networks.
 - 📫 Connect with me on [Instagram](https://www.instagram.com/muqsith_ali/).
 
 <!---
